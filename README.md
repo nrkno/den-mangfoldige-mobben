@@ -9,3 +9,7 @@ Enten mobb-programmering er helt nytt for deg, eller du har prøvd det før og h
 ## Innhold
 
 * [Kort med mobb-programmeringsmønstre](/kort/)
+
+## Laget av
+
+Workshopen er laget og holdt av Lars Jørgen Tvedt ([@ljtvedt](https://github.com/ljtvedt)) og Heidi Mork ([@heidisu](https://github.com/heidisu))
