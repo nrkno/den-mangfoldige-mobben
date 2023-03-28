@@ -10,8 +10,14 @@ Mønstrene kan enten oppstå tilfeldig og utilsiktet, eller brukes som verktøy 
 | Strategi | En måte mobben kan arbeide eller agere på. |
 | Avsporing | En måte å jobbe på som er uheldig for mobben og som hindrer det man ønsker å oppnå ved å jobbe i mobb |
 
+## Kilder
+
 Kortene er oversatt og bearbeidet fra følgende kilder:
 
 * [michaelkeeling/mob-programming-patterns](https://github.com/michaelkeeling/mob-programming-patterns)
 * [Mobbing Pattern Language](https://jay.bazuzi.com/Mobbing-Pattern-Language/)
 * [willemlarsen/mobprogrammingrpg](https://github.com/willemlarsen/mobprogrammingrpg)
+
+## Design
+
+Kortene er designet av Charlotte Amdahl Midthun ([@nottemi](https://github.com/nottemi))
