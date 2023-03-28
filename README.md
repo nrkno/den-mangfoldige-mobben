@@ -8,4 +8,4 @@ Enten mobb-programmering er helt nytt for deg, eller du har prøvd det før og h
 
 ## Innhold
 
-* [Kort med mobb-programmeringsmønstre](/kort/README.md)
+* [Kort med mobb-programmeringsmønstre](/kort/)
