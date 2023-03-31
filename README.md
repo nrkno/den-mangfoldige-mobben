@@ -8,7 +8,11 @@ Enten mobb-programmering er helt nytt for deg, eller du har prøvd det før og h
 
 ## Innhold
 
-* [Kort med mobb-programmeringsmønstre](/kort/)
+* [Kort med mobb-programmeringsmønstre](/kort/README.md)
+
+## Workshoper
+
+* [Booster 2023](/booster-2023/README.md)
 
 ## Laget av
 
