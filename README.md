@@ -13,7 +13,6 @@ Enten mobb-programmering er helt nytt for deg, eller du har prøvd det før og h
 ## Workshoper
 
 * [Booster 2023](/booster-2023/README.md)
-* [Kort med mobb-programmeringsmønstre](/kort/)
 
 ## Laget av
 
