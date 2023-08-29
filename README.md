@@ -1,8 +1,8 @@
 # Den mangfoldige mobben
 
-Mobb-programmering er en måte å jobbe på der hovedprinsippet er at hele teamet jobber sammen med å løse en oppgave om gangen, i samme rom, på samme tid, på en og samme datamaskin. Mobb-programmering kan være så mangt, og i denne workshopen vil vi prøve å utforske mangfold og utfordringer.
+Mobb-programmering er når hele teamet jobber om å løse én oppgave, på samme tid, samme sted og med én datamaskin. Det høres kanskje merkelig ut om man ikke har prøvd arbeidsmåten før, men vi mener at mobb-programmering skaper drivkraft og fokus, gir god kvalitet, og gjør teamet mer robust.
 
-Først gir vi en introduksjon til mobb-programmering, og vi definerer noen enkle regler for mobben. Deretter deler vi oss i flere mobber og løser en morsom programmeringsutfordring sammen, samtidig som vi øver på å arbeide etter mobb-reglene. Det finnes ulike strategier og mønstre for samarbeid i mobb. I siste del av workshopen vil vi prøve å identifisere hvilke mønstre vi erfarte i mobben, og diskutere hvilke mønstre som kunne ha løst eventuelle utfordringer.
+Opplevelsen av mobb-programmering blir ulik avhengig av personene i mobben og oppgaven som skal løses. Vi har derfor laget en workshop der vi vil utforske og reflektere over mangfold og utfordringer man kan erfare i en mobb.
 
 Enten mobb-programmering er helt nytt for deg, eller du har prøvd det før og har mye å diskutere, vil du både kunne bidra og lære av denne workshopen!
 
@@ -13,6 +13,7 @@ Enten mobb-programmering er helt nytt for deg, eller du har prøvd det før og h
 ## Workshoper
 
 * [Booster 2023](/workshops/booster-2023/README.md)
+* [JavaZone 2023](/workshops/javazone-2023/README.md)
 * [Internt for sommerstudenter](/workshops/sommerstudenter-internt-2023/README.md)
 
 ## Laget av
