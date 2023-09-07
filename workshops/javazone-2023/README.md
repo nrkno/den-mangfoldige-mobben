@@ -13,3 +13,7 @@ Opplevelsen av mobb-programmering blir ulik avhengig av personene i mobben og op
 Først gir vi en introduksjon til mobb-programmering, og vi definerer noen enkle kjøreregler for mobben. Deretter deler vi oss i flere mobber og løser en liten programmeringsoppgave, samtidig som vi øver på å arbeide etter mobb-reglene. Det finnes ulike strategier og mønstre for samarbeid i mobb. I siste del av workshopen vil vi prøve å identifisere hvilke mønstre og strategier vi erfarte i mobben, og diskutere hvilke mønstre som kunne ha løst eventuelle utfordringer.
 
 Enten mobb-programmering er helt nytt for deg, eller du har prøvd det før og har mye å diskutere, vil du både kunne bidra og lære av denne workshopen!
+
+## Fra workshopen
+
+ [Post-it-lappene fra retroen](/workshops/javazone-2023/retro.md)
