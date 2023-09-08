@@ -17,3 +17,7 @@ Enten mobb-programmering er helt nytt for deg, eller du har prøvd det før og h
 ## Fra workshopen
 
  [Post-it-lappene fra retroen](/workshops/javazone-2023/retro.md)
+
+ ![image](/workshops/javazone-2023/bilder/bilde1.jpg)
+![image](/workshops/javazone-2023/bilder/bilde2.jpg)
+![image](/workshops/javazone-2023/bilder/bilde3.jpg)
